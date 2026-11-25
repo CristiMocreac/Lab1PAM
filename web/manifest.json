@@ -1,0 +1,11 @@
+{
+  "name": "Calculator IMC",
+  "short_name": "IMC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F8FA",
+  "theme_color": "#087F8C",
+  "description": "Calculator al indicelui de masă corporală",
+  "lang": "ro",
+  "icons": []
+}
